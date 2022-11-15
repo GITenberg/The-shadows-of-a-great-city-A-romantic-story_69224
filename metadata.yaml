@@ -1,0 +1,38 @@
+_repo: The-shadows-of-a-great-city-A-romantic-story_69224
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Shewell, Livingston Robert
+    alias: Shewell, L. R. (Livingston Robert)
+    birthdate: 1833
+    deathdate: 1904
+    gutenberg_agent_id: '55173'
+    url: http://www.gutenberg.org/2009/agents/55173
+  - agent_name: White, Grace Miller
+    alias: Miller, Mary Esther
+    birthdate: 1869
+    deathdate: 1957
+    gutenberg_agent_id: '7802'
+    url: http://www.gutenberg.org/2009/agents/7802
+    wikipedia: https://en.wikipedia.org/wiki/Grace_Miller_White
+description: ''
+gutenberg_issued: '2022-10-24'
+identifiers:
+  gutenberg: '69224'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:712860
+pgterms:marc905: 20220427063018white
+pgterms:marc906: '1904'
+pgterms:marc907: us
+production_note: Demian Katz, Craig Kirkwood, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: 'United States: J. S. Ogilvie,1904.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+- GITenberg
+title: 'The shadows of a great city: A romantic story'
+url: http://www.gutenberg.org/ebooks/69224
